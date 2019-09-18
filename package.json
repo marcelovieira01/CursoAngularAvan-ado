@@ -26,11 +26,11 @@
     "currency-formatter": "^1.5.5",
     "jquery": "^3.4.1",
     "moment": "^2.24.0",
+    "popper.js": "^1.15.0",
     "primeicons": "^2.0.0",
     "primeng": "^8.0.3",
     "rxjs": "~6.4.0",
     "toastr": "^2.1.4",
-    "tostr": "^0.1.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
   },
